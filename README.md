@@ -1,16 +1,16 @@
 # ===========================================
 # PROGRAMA: CAJERO AUTOMÁTICO
-# Autor: (Escribir nombre del estudiante)
+# Autor: (axel aleman 3ro de secundaria)
 # ===========================================
 
-saldo = 1000
-pin_correcto = "1234"
+saldo = 20000
+pin_correcto = "9012"
 
 print("===================================")
-print("     BIENVENIDO AL CAJERO")
+print("     cajero banco interbankk")
 print("===================================")
 
-pin = input("Ingrese su PIN: ")
+pin = input("Ingresar PIN: ")
 
 if pin == pin_correcto:
 
